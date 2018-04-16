@@ -8,8 +8,6 @@ print('''
     *                                                                     *
     *               ~   S3 Client Tool ~                                  *   
     *       !   Made By Saif Salah  !                                     *
-    *       ! Phone 07700252949     !                                     *
-    *       ! Email : saifsalah15[at]gmail[dot]com                        *
     *                                                                     *
     *         [#] Please Follow Steps [#]                                 *
     *                                                                     *                                                                 
